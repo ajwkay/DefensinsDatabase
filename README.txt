@@ -8,9 +8,9 @@ A project to catalogue defensin related protiens. Main functions include:
 
 Branches:
 - Legacy
-Code from development back in 2020 on a Windows 10 environment. Possibly rendered dysfunctional by LFS; mostly used for reference and archivial purposes.
+Code from development back in 2020 on a Windows 10 environment. Functionality has been stunted for the sake of confidentiality; mostly used for reference and archivial purposes.
 - Main
-Currently under development with the aim to reconstruct the legacy code on a Linux environment. The intention is to maintain the original functionality, but using more efficient tools for each part of the job.
+Currently under development with the aim to reconstruct the legacy code using more efficient libraries and tools for each part of the job.
 
 Prerequisites to host the database:
 - Apache > 2.4
